@@ -1,2 +1,0 @@
-# BookingService
-Handles tickets booking.
